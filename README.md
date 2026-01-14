@@ -28,8 +28,6 @@
 </p>
 
 <!-- Stats de ancho completo, centrados y relevantes (actividad y lenguajes) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=AxelCarlin&theme=tokyonight&border_radius=4&mode=weekly&fire=EB5454)](https://git.io/streak-stats)
-
 <a href="https://gitroll.io/profile/uLdXIk2KTl8bIgfjctIzlQjlPqtu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLdXIk2KTl8bIgfjctIzlQjlPqtu1?theme=retro" alt="GitRoll Profile Badge"/></a>
 
 
