@@ -9,25 +9,31 @@
   Me interesan arquitectura simple, testing y CI/CD ligero para soluciones estables.
 </p>
 
-<p align="center">
-  <!-- Logos minimalistas (Devicon) -->
- <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
+<!-- Tecnologías: Lenguajes -->
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=php,cs,python,rust&perline=4" alt="Lenguajes">
+</a>
 </p>
 
 <p align="center">
-  <!-- Etiquetas modernas minimalistas (solo ícono) -->
-  <img src="https://img.shields.io/badge/-_%20-%201a1a1a?logo=php&logoColor=white&label=%20&message=%20" height="22" alt="PHP tag"/>
-  <img src="https://img.shields.io/badge/-_%20-%201a1a1a?logo=dotnet&logoColor=white&label=%20&message=%20" height="22" alt=".NET tag"/>
-  <img src="https://img.shields.io/badge/-_%20-%201a1a1a?logo=csharp&logoColor=white&label=%20&message=%20" height="22" alt="C# tag"/>
-  <img src="https://img.shields.io/badge/-_%20-%201a1a1a?logo=python&logoColor=white&label=%20&message=%20" height="22" alt="Python tag"/>
-  <img src="https://img.shields.io/badge/-_%20-%201a1a1a?logo=rust&logoColor=white&label=%20&message=%20" height="22" alt="Rust tag"/>
+<!-- Tecnologías: Bases de datos -->
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=4" alt="Bases de datos">
+</a>
+</p>
+
+<p align="center">
+<!-- Entornos de trabajo -->
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,azure,archlinux,fedora,visualstudio,vscode,pycharm&perline=4" alt="Entornos">
+</a>
+</p>
+
+<p align="center">
+<!-- Herramientas Frontend --->
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,vue&perline=3" alt="Herramientas Frontend">
+</a>
 </p>
 
 <!-- Stats de ancho completo, centrados y relevantes (actividad y lenguajes) -->
