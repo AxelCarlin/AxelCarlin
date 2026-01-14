@@ -28,17 +28,7 @@
 </p>
 
 <!-- Stats de ancho completo, centrados y relevantes (actividad y lenguajes) -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelCarlin&theme=github_dark" width="100%" alt="Resumen de actividad"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelCarlin&layout=compact&langs_count=8&hide_title=true&theme=dark" width="100%" alt="Lenguajes más utilizados"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AxelCarlin&utcOffset=0&theme=github_dark" width="100%" alt="Horario productivo"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight)](https://git.io/streak-stats)
 
 <a href="https://gitroll.io/profile/uLdXIk2KTl8bIgfjctIzlQjlPqtu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLdXIk2KTl8bIgfjctIzlQjlPqtu1?theme=retro" alt="GitRoll Profile Badge"/></a>
 
