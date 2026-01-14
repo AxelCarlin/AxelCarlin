@@ -13,17 +13,17 @@
 
 <div align="center">
 
-  <h4>💻 Lenguajes de Programación</h4>
+  <h4>Lenguajes de Programación</h4>
   <img src="https://skillicons.dev/icons?i=php,cs,python,rust&perline=4" alt="Lenguajes" />
 
 
-  <h4>🌐 Frameworks & Librerías</h4>
+  <h4>Frameworks & Librerías</h4>
   <img src="https://skillicons.dev/icons?i=dotnet,laravel,tensorflow,react,vue&perline=7" alt="Frameworks" />
 
-  <h4>🗄️ Bases de Datos</h4>
+  <h4>Bases de Datos</h4>
   <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" alt="Bases de datos" />
 
-  <h4>☁️ Infraestructura y Entornos</h4>
+  <h4>Infraestructura y Entornos</h4>
   <img src="https://skillicons.dev/icons?i=aws,azure,arch,redhat,visualstudio,vscode,pycharm&perline=7" alt="Entornos" />
 
 </div>
