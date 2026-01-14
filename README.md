@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" alt="Bases de datos" />
 
   <h4>☁️ Infraestructura y Entornos</h4>
-  <img src="https://skillicons.dev/icons?i=aws,azure,archlinux,fedora,visualstudio,vscode,pycharm&perline=7" alt="Entornos" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,arch,redhat,visualstudio,vscode,pycharm&perline=7" alt="Entornos" />
 
 </div>
 
