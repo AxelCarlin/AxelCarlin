@@ -16,17 +16,12 @@
   <h4>💻 Lenguajes de Programación</h4>
   <img src="https://skillicons.dev/icons?i=php,cs,python,rust&perline=4" alt="Lenguajes" />
 
-  <br><br>
 
   <h4>🌐 Frameworks & Librerías</h4>
   <img src="https://skillicons.dev/icons?i=dotnet,aspnet,laravel,tensorflow,react,vue&perline=6" alt="Frameworks" />
 
-  <br><br>
-
   <h4>🗄️ Bases de Datos</h4>
   <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" alt="Bases de datos" />
-
-  <br><br>
 
   <h4>☁️ Infraestructura y Entornos</h4>
   <img src="https://skillicons.dev/icons?i=aws,azure,archlinux,fedora,visualstudio,vscode,pycharm&perline=7" alt="Entornos" />
