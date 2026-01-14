@@ -9,22 +9,33 @@
   Me interesan arquitectura simple, testing y CI/CD ligero para soluciones estables.
 </p>
 
+### 🛠️ Tecnologías y Herramientas
+---
+
 <p align="center">
+  <strong>Lenguajes de Programación</strong><br>
   <img src="https://skillicons.dev/icons?i=php,cs,python,rust" alt="Lenguajes" />
-  <br>
+</p>
+
+<p align="center">
+  <strong>Bases de Datos</strong><br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Bases de datos" />
-  <br>
+</p>
+
+<p align="center">
+  <strong>Infraestructura y Entornos</strong><br>
   <img src="https://skillicons.dev/icons?i=aws,azure,archlinux,fedora,visualstudio,vscode,pycharm" alt="Entornos" />
-  <br>
+</p>
+
+<p align="center">
+  <strong>Frameworks Frontend</strong><br>
   <img src="https://skillicons.dev/icons?i=react,vue" alt="Frontend" />
 </p>
 
-<p align="center">
-  <a href="https://gitroll.io/profile/uLdXIk2KTl8bIgfjctIzlQjlPqtu1" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uLdXIk2KTl8bIgfjctIzlQjlPqtu1?theme=retro" alt="GitRoll Profile Badge"/>
-  </a>
-</p>
+<br>
 
+### 📈 Actividad y Contacto
+---
 <!-- Stats de ancho completo, centrados y relevantes (actividad y lenguajes) -->
 <a href="https://gitroll.io/profile/uLdXIk2KTl8bIgfjctIzlQjlPqtu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLdXIk2KTl8bIgfjctIzlQjlPqtu1?theme=retro" alt="GitRoll Profile Badge"/></a>
 
