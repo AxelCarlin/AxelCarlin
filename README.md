@@ -9,31 +9,20 @@
   Me interesan arquitectura simple, testing y CI/CD ligero para soluciones estables.
 </p>
 
-<!-- Tecnologías: Lenguajes -->
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=php,cs,python,rust&perline=4" alt="Lenguajes">
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,cs,python,rust" alt="Lenguajes" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Bases de datos" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,archlinux,fedora,visualstudio,vscode,pycharm" alt="Entornos" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,vue" alt="Frontend" />
 </p>
 
 <p align="center">
-<!-- Tecnologías: Bases de datos -->
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=4" alt="Bases de datos">
-</a>
-</p>
-
-<p align="center">
-<!-- Entornos de trabajo -->
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,azure,archlinux,fedora,visualstudio,vscode,pycharm&perline=4" alt="Entornos">
-</a>
-</p>
-
-<p align="center">
-<!-- Herramientas Frontend --->
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,vue&perline=3" alt="Herramientas Frontend">
-</a>
+  <a href="https://gitroll.io/profile/uLdXIk2KTl8bIgfjctIzlQjlPqtu1" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uLdXIk2KTl8bIgfjctIzlQjlPqtu1?theme=retro" alt="GitRoll Profile Badge"/>
+  </a>
 </p>
 
 <!-- Stats de ancho completo, centrados y relevantes (actividad y lenguajes) -->
