@@ -40,6 +40,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AxelCarlin&utcOffset=0&theme=github_dark" width="100%" alt="Horario productivo"/>
 </div>
 
+<a href="https://gitroll.io/profile/uLdXIk2KTl8bIgfjctIzlQjlPqtu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7pe5k1ya0IcTBsvJEpeh2LTVpK42?theme=WatchdogGradient" alt="GitRoll Profile Badge"/></a>
+
+<br>
+
+
 <p align="center">
   <!-- Redes sociales: reemplaza con tus enlaces -->
   <a href="https://github.com/AxelCarlin"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-1a1a1a?logo=github&logoColor=white"></a>
