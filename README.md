@@ -18,7 +18,7 @@
 
 
   <h4>🌐 Frameworks & Librerías</h4>
-  <img src="https://skillicons.dev/icons?i=dotnet,aspnet,laravel,tensorflow,react,vue&perline=7" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,tensorflow,react,vue&perline=7" alt="Frameworks" />
 
   <h4>🗄️ Bases de Datos</h4>
   <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" alt="Bases de datos" />
