@@ -43,11 +43,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://gitroll.io/profile/uLdXIk2KTl8bIgfjctIzlQjlPqtu1" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uLdXIk2KTl8bIgfjctIzlQjlPqtu1?theme=retro" alt="GitRoll Profile Badge"/>
-  </a>
-</p>
 <!-- Stats de ancho completo, centrados y relevantes (actividad y lenguajes) -->
 <a href="https://gitroll.io/profile/uLdXIk2KTl8bIgfjctIzlQjlPqtu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLdXIk2KTl8bIgfjctIzlQjlPqtu1?theme=retro" alt="GitRoll Profile Badge"/></a>
 
