@@ -10,9 +10,6 @@
 </p>
 
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
 
 <div align="center">
 
@@ -39,9 +36,6 @@
 <br>
 
 <h2 align="center">📈 Actividad y Contacto</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
 
 <!-- Stats de ancho completo, centrados y relevantes (actividad y lenguajes) -->
 <a href="https://gitroll.io/profile/uLdXIk2KTl8bIgfjctIzlQjlPqtu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLdXIk2KTl8bIgfjctIzlQjlPqtu1?theme=retro" alt="GitRoll Profile Badge"/></a>
