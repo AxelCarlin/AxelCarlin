@@ -9,33 +9,45 @@
   Me interesan arquitectura simple, testing y CI/CD ligero para soluciones estables.
 </p>
 
-### 🛠️ Tecnologías y Herramientas
----
-
+<h2 align="center">🛠️ Tecnologías y Herramientas</h2>
 <p align="center">
-  <strong>Lenguajes de Programación</strong><br>
-  <img src="https://skillicons.dev/icons?i=php,cs,python,rust" alt="Lenguajes" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<p align="center">
-  <strong>Bases de Datos</strong><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Bases de datos" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Infraestructura y Entornos</strong><br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,archlinux,fedora,visualstudio,vscode,pycharm" alt="Entornos" />
-</p>
+  <h4>💻 Lenguajes de Programación</h4>
+  <img src="https://skillicons.dev/icons?i=php,cs,python,rust&perline=4" alt="Lenguajes" />
 
-<p align="center">
-  <strong>Frameworks Frontend</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,vue" alt="Frontend" />
-</p>
+  <br><br>
+
+  <h4>🌐 Frameworks & Librerías</h4>
+  <img src="https://skillicons.dev/icons?i=dotnet,aspnet,laravel,tensorflow,react,vue&perline=6" alt="Frameworks" />
+
+  <br><br>
+
+  <h4>🗄️ Bases de Datos</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" alt="Bases de datos" />
+
+  <br><br>
+
+  <h4>☁️ Infraestructura y Entornos</h4>
+  <img src="https://skillicons.dev/icons?i=aws,azure,archlinux,fedora,visualstudio,vscode,pycharm&perline=7" alt="Entornos" />
+
+</div>
 
 <br>
 
-### 📈 Actividad y Contacto
----
+<h2 align="center">📈 Actividad y Contacto</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://gitroll.io/profile/uLdXIk2KTl8bIgfjctIzlQjlPqtu1" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uLdXIk2KTl8bIgfjctIzlQjlPqtu1?theme=retro" alt="GitRoll Profile Badge"/>
+  </a>
+</p>
 <!-- Stats de ancho completo, centrados y relevantes (actividad y lenguajes) -->
 <a href="https://gitroll.io/profile/uLdXIk2KTl8bIgfjctIzlQjlPqtu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLdXIk2KTl8bIgfjctIzlQjlPqtu1?theme=retro" alt="GitRoll Profile Badge"/></a>
 
