@@ -11,6 +11,7 @@
 
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>
 
+<br>
 <div align="center">
 
   <h4>Lenguajes de Programación</h4>
