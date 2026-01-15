@@ -11,7 +11,7 @@
 <h3>🌎 Bio</h3>
 
 ```sh
-tthn0@github
+axel@github
 ┌─────────────────────────────────────────────────────────────┐
 │         /\          ♚ OS         ~   Axel                
 │        /  \         ♛ Host       ~   Monclova, MX.          
