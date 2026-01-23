@@ -8,20 +8,6 @@
   Trabajo con PHP, .NET (C#), Python y Rust enfocado en rendimiento y mantenibilidad.<br>
   Me interesan arquitectura simple, testing y CI/CD ligero para soluciones estables.
 </p>
-<h3>🌎 Bio</h3>
-
-```sh
-axel@github
-┌─────────────────────────────────────────────────────────────┐
-│         /\          ♚ OS         ~   Axel                
-│        /  \         ♛ Host       ~   Monclova, MX.          
-│       /\   \        ♜ Uptime     ~   21 years               
-│      /      \                                               
-│     /   ,,   \      ♝ Kernel     ~   University TecNM 
-│    /   |  |  -\     ♞ Shell      ~   Informatic Engineering
-│   /_-''    ''-_\    ♟ Packages   ~   2026                   
-└─────────────────────────────────────────────────────────────┘
-```
 
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>
 
